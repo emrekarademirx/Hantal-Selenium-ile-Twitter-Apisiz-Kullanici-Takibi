@@ -1,0 +1,7 @@
+├── twitter_stalk_bot/
+│   ├── bot.py
+│   ├── geckodriver.exe
+│   ├── .gitignore
+│   ├── LICENSE
+│   ├── README.md
+│   ├── setup.py
